@@ -14,7 +14,7 @@ Due to the shrinking of section area and the ignored effect of developed elongat
 
 ## *+ Difference (shown on graph)*
 Next graph shows difference between engineering stress-strain curve and true stress-strain curve
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stress_strain_ductile.svg/473px-Stress_strain_ductile.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stress_strain_comparison.svg/328px-Stress_strain_comparison.svg.png)
 
 ## How to use script
 Many FEA (Finite Element Analysis) softwares require that material properties are input as .csv points of true stress-strain curve of selected material. However, material properties can in most cases be found as engineering stress-strain curve.
